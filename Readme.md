@@ -3,7 +3,6 @@
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis data peminjaman sepeda berdasarkan musim dan pola penggunaan dalam sehari. Selain itu, dilakukan analisis lanjutan dengan teknik manual grouping dan binning untuk memahami pola peminjaman lebih dalam. 
 
-Dashboard ini telah dideploy menggunakan Streamlit Cloud, sehingga dapat diakses langsung tanpa perlu instalasi tambahan. https://dbsanalysisbikesharing.streamlit.app/
 
 ## Pertanyaan Bisnis
 1. Bagaimana pengaruh musim terhadap jumlah peminjaman sepeda?

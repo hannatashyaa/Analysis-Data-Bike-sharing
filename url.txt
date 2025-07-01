@@ -1,6 +1,3 @@
-Dashboard telah dideploy dan dapat diakses di:  
-https://dbsbikesharing.streamlit.app/  
-
 Jika ingin menjalankan dashboard secara lokal:  
 1. Pastikan semua library yang diperlukan sudah terinstal dengan menjalankan:  
    pip install -r requirements.txt
